@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YmByz7Nq96cQlOjxIawSJac8Mb3Nyr0BOD+EXLC790cmt7dBnf1XzNy4joQDUjgw7EgLlbu+r8/0uk19nVyOVQ==",
+  "success": true,
+  "projectFilePath": "D:\\SAMIR\\Problem Solving\\LeetCode-Problem-Solving\\LC_2011\\LC_2011\\LC_2011.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

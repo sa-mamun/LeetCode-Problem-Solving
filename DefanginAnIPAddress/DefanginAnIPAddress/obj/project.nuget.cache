@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VAR1yuD/P+mxHUfNT0sYFLkxTglsSPzJKGtVmKJ4bJWcIT2MpIW1en+grFA7h5W+MWOYa5yOGY0b4mChmtCsgg==",
+  "success": true,
+  "projectFilePath": "D:\\SAMIR\\Problem Solving\\LeetCode-Problem-Solving\\DefanginAnIPAddress\\DefanginAnIPAddress\\DefanginAnIPAddress.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

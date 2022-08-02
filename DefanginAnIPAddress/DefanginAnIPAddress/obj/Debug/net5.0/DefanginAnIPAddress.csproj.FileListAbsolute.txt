@@ -1,0 +1,16 @@
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\bin\Debug\net5.0\DefanginAnIPAddress.exe
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\bin\Debug\net5.0\DefanginAnIPAddress.deps.json
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\bin\Debug\net5.0\DefanginAnIPAddress.runtimeconfig.json
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\bin\Debug\net5.0\DefanginAnIPAddress.runtimeconfig.dev.json
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\bin\Debug\net5.0\DefanginAnIPAddress.dll
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\bin\Debug\net5.0\ref\DefanginAnIPAddress.dll
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\bin\Debug\net5.0\DefanginAnIPAddress.pdb
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\obj\Debug\net5.0\DefanginAnIPAddress.csproj.AssemblyReference.cache
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\obj\Debug\net5.0\DefanginAnIPAddress.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\obj\Debug\net5.0\DefanginAnIPAddress.AssemblyInfoInputs.cache
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\obj\Debug\net5.0\DefanginAnIPAddress.AssemblyInfo.cs
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\obj\Debug\net5.0\DefanginAnIPAddress.csproj.CoreCompileInputs.cache
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\obj\Debug\net5.0\DefanginAnIPAddress.dll
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\obj\Debug\net5.0\ref\DefanginAnIPAddress.dll
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\obj\Debug\net5.0\DefanginAnIPAddress.pdb
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\DefanginAnIPAddress\DefanginAnIPAddress\obj\Debug\net5.0\DefanginAnIPAddress.genruntimeconfig.cache

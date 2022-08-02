@@ -1,0 +1,16 @@
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\bin\Debug\net5.0\LC_2011.exe
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\bin\Debug\net5.0\LC_2011.deps.json
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\bin\Debug\net5.0\LC_2011.runtimeconfig.json
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\bin\Debug\net5.0\LC_2011.runtimeconfig.dev.json
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\bin\Debug\net5.0\LC_2011.dll
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\bin\Debug\net5.0\ref\LC_2011.dll
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\bin\Debug\net5.0\LC_2011.pdb
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\obj\Debug\net5.0\LC_2011.csproj.AssemblyReference.cache
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\obj\Debug\net5.0\LC_2011.GeneratedMSBuildEditorConfig.editorconfig
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\obj\Debug\net5.0\LC_2011.AssemblyInfoInputs.cache
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\obj\Debug\net5.0\LC_2011.AssemblyInfo.cs
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\obj\Debug\net5.0\LC_2011.csproj.CoreCompileInputs.cache
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\obj\Debug\net5.0\LC_2011.dll
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\obj\Debug\net5.0\ref\LC_2011.dll
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\obj\Debug\net5.0\LC_2011.pdb
+D:\SAMIR\Problem Solving\LeetCode-Problem-Solving\LC_2011\LC_2011\obj\Debug\net5.0\LC_2011.genruntimeconfig.cache
