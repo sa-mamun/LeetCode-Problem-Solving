@@ -1,0 +1,14 @@
+D:\Practice_Project\PlusOne\PlusOne\bin\Debug\net8.0\PlusOne.exe
+D:\Practice_Project\PlusOne\PlusOne\bin\Debug\net8.0\PlusOne.deps.json
+D:\Practice_Project\PlusOne\PlusOne\bin\Debug\net8.0\PlusOne.runtimeconfig.json
+D:\Practice_Project\PlusOne\PlusOne\bin\Debug\net8.0\PlusOne.dll
+D:\Practice_Project\PlusOne\PlusOne\bin\Debug\net8.0\PlusOne.pdb
+D:\Practice_Project\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice_Project\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.AssemblyInfoInputs.cache
+D:\Practice_Project\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.AssemblyInfo.cs
+D:\Practice_Project\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.csproj.CoreCompileInputs.cache
+D:\Practice_Project\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.dll
+D:\Practice_Project\PlusOne\PlusOne\obj\Debug\net8.0\refint\PlusOne.dll
+D:\Practice_Project\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.pdb
+D:\Practice_Project\PlusOne\PlusOne\obj\Debug\net8.0\PlusOne.genruntimeconfig.cache
+D:\Practice_Project\PlusOne\PlusOne\obj\Debug\net8.0\ref\PlusOne.dll
