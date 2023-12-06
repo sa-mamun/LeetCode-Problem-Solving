@@ -1,0 +1,15 @@
+D:\LeetCode-Problem-Solving\SingleNumber\SingleNumber\bin\Debug\net8.0\SingleNumber.exe
+D:\LeetCode-Problem-Solving\SingleNumber\SingleNumber\bin\Debug\net8.0\SingleNumber.deps.json
+D:\LeetCode-Problem-Solving\SingleNumber\SingleNumber\bin\Debug\net8.0\SingleNumber.runtimeconfig.json
+D:\LeetCode-Problem-Solving\SingleNumber\SingleNumber\bin\Debug\net8.0\SingleNumber.dll
+D:\LeetCode-Problem-Solving\SingleNumber\SingleNumber\bin\Debug\net8.0\SingleNumber.pdb
+D:\LeetCode-Problem-Solving\SingleNumber\SingleNumber\obj\Debug\net8.0\SingleNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode-Problem-Solving\SingleNumber\SingleNumber\obj\Debug\net8.0\SingleNumber.AssemblyInfoInputs.cache
+D:\LeetCode-Problem-Solving\SingleNumber\SingleNumber\obj\Debug\net8.0\SingleNumber.AssemblyInfo.cs
+D:\LeetCode-Problem-Solving\SingleNumber\SingleNumber\obj\Debug\net8.0\SingleNumber.csproj.CoreCompileInputs.cache
+D:\LeetCode-Problem-Solving\SingleNumber\SingleNumber\obj\Debug\net8.0\SingleNumber.sourcelink.json
+D:\LeetCode-Problem-Solving\SingleNumber\SingleNumber\obj\Debug\net8.0\SingleNumber.dll
+D:\LeetCode-Problem-Solving\SingleNumber\SingleNumber\obj\Debug\net8.0\refint\SingleNumber.dll
+D:\LeetCode-Problem-Solving\SingleNumber\SingleNumber\obj\Debug\net8.0\SingleNumber.pdb
+D:\LeetCode-Problem-Solving\SingleNumber\SingleNumber\obj\Debug\net8.0\SingleNumber.genruntimeconfig.cache
+D:\LeetCode-Problem-Solving\SingleNumber\SingleNumber\obj\Debug\net8.0\ref\SingleNumber.dll
