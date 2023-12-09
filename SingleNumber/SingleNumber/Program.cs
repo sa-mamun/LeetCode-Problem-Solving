@@ -4,20 +4,29 @@
     {
         static void Main(string[] args)
         {
-            int[] nums = { 4, 1, 2, 1, 2 };
+            int[] nums = {2, 2, 3, 3, 4, 5, 5, 1, 1};
             int result = 0;
             if (nums.Length > 1)
             {
                 var nList = nums.ToList();
                 nList.Sort();
                 nums = nList.ToArray();
-                int a = nums[0];
-                int j = 0;
+                result = nums[0];
+                int found = 0;
                 for (int i = 1; i < nums.Length; i++)
                 {
-                    if (i + 1 < nums.Length && i != j && a == nums[i])
+                    if (result == nums[i])
                     {
-                        a = nums[i+1];
+                        found++;
+                    }
+                    else if (result != nums[i] && found > 0)
+                    {
+                        result = nums[i];
+                        found = 0;
+                    }
+                    else if (result != nums[i] && found == 0)
+                    {
+                        break;
                     }
                 }
             }
