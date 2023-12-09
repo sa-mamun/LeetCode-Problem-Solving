@@ -1,0 +1,15 @@
+D:\LeetCode-Problem-Solving\PascalTriangle\PascalTriangle\bin\Debug\net8.0\PascalTriangle.exe
+D:\LeetCode-Problem-Solving\PascalTriangle\PascalTriangle\bin\Debug\net8.0\PascalTriangle.deps.json
+D:\LeetCode-Problem-Solving\PascalTriangle\PascalTriangle\bin\Debug\net8.0\PascalTriangle.runtimeconfig.json
+D:\LeetCode-Problem-Solving\PascalTriangle\PascalTriangle\bin\Debug\net8.0\PascalTriangle.dll
+D:\LeetCode-Problem-Solving\PascalTriangle\PascalTriangle\bin\Debug\net8.0\PascalTriangle.pdb
+D:\LeetCode-Problem-Solving\PascalTriangle\PascalTriangle\obj\Debug\net8.0\PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode-Problem-Solving\PascalTriangle\PascalTriangle\obj\Debug\net8.0\PascalTriangle.AssemblyInfoInputs.cache
+D:\LeetCode-Problem-Solving\PascalTriangle\PascalTriangle\obj\Debug\net8.0\PascalTriangle.AssemblyInfo.cs
+D:\LeetCode-Problem-Solving\PascalTriangle\PascalTriangle\obj\Debug\net8.0\PascalTriangle.csproj.CoreCompileInputs.cache
+D:\LeetCode-Problem-Solving\PascalTriangle\PascalTriangle\obj\Debug\net8.0\PascalTriangle.sourcelink.json
+D:\LeetCode-Problem-Solving\PascalTriangle\PascalTriangle\obj\Debug\net8.0\PascalTriangle.dll
+D:\LeetCode-Problem-Solving\PascalTriangle\PascalTriangle\obj\Debug\net8.0\refint\PascalTriangle.dll
+D:\LeetCode-Problem-Solving\PascalTriangle\PascalTriangle\obj\Debug\net8.0\PascalTriangle.pdb
+D:\LeetCode-Problem-Solving\PascalTriangle\PascalTriangle\obj\Debug\net8.0\PascalTriangle.genruntimeconfig.cache
+D:\LeetCode-Problem-Solving\PascalTriangle\PascalTriangle\obj\Debug\net8.0\ref\PascalTriangle.dll
